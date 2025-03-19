@@ -1,0 +1,17 @@
+# Build directories
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows specific
+*.exe
