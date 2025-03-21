@@ -1,6 +1,8 @@
 # Auto-Clicker with Color Detection
 
 A simple auto-clicker that detects specific colors and automatically clicks when they appear at marked positions.
+Used while AFK - away from keyboard 
+-this application uses the users mouse directly | might change according to my laziness level
 
 ## Features
 - Add multiple click points using F8
